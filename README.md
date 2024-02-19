@@ -12,7 +12,7 @@ The repository is organized into folders, each corresponding to a specific guide
   - `data/`: Folder containing any necessary datasets for the project.
   - `README.md`: Brief overview of the project, objectives, and any specific instructions.
 
-- **Project2_Name:**
+- **Project: Exploring NYC Public School Test Result Scores**
   - `project2_notebook.ipynb`: Jupyter Notebook for the second guided project.
   - `data/`: Data folder for the second project.
   - `README.md`: Summary of the project, key takeaways, and possible extensions.
