@@ -13,10 +13,8 @@ The repository is organized into folders, each corresponding to a specific guide
   - `README.md`: Brief overview of the project, objectives, and any specific instructions.
 
 - **Project: Exploring NYC Public School Test Result Scores**
-  - `project2_notebook.ipynb`: Jupyter Notebook for the second guided project.
-  - `data/`: Data folder for the second project.
-  - `README.md`: Summary of the project, key takeaways, and possible extensions.
-
+  - notebook.ipynb: Jupyter Notebook for the second guided project.
+  - schools.csv: Data folder for the second project.
 ...
 
 ## Usage
@@ -27,9 +25,6 @@ If you have completed a DataCamp Guided Project not included in this repository,
 
 ## Courses
 The guided projects are associated with specific DataCamp courses. You can find more information about the courses on the DataCamp platform.
-
-1. [Course1_Name](link_to_course1): Description of the first course.
-2. [Course2_Name](link_to_course2): Description of the second course.
 
 ## Acknowledgments
 Credit to DataCamp for providing the datasets, guidance, and structure for these projects.
