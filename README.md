@@ -10,13 +10,19 @@ The repository is organized into folders, each corresponding to a specific guide
 - **Investigating Netflix Movies**
   - `project1_notebook.ipynb`: Jupyter Notebook containing the code and analysis for the first guided project.
   - `data/`: Folder containing any necessary datasets for the project.
-  - `README.md`: Brief overview of the project, objectives, and any specific instructions.
 
 - **Project: Exploring NYC Public School Test Result Scores**
-  - notebook.ipynb: Jupyter Notebook for the second guided project.
-  - schools.csv: Data folder for the second project.
-...
+  - `notebook.ipynb`: Jupyter Notebook for the second guided project.
+  - `schools.csv`: Data folder for the second project.
 
+- **Project: Cleaning Audible india data on Python**
+  - `project3_notebook.ipynb`: Jupyter Notebook for the thrid guided project.
+  - `audible_raw.csv`: Data folder for the thrid project.
+  
+- **Project: Analysing Google Sheets Data on Python**
+   - `project4_notebook.ipynb`: Jupyter Notebook for the third guided project.
+   -  `ga_sample_data.csv`: Data for the fourth project.   
+...
 ## Usage
 Feel free to explore each project folder to review the code, analysis, and results. The Jupyter Notebooks are well-commented and include explanations for each step. Additionally, you can run the notebooks locally by setting up a Python environment with the required dependencies mentioned in the course.
 
