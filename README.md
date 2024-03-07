@@ -20,8 +20,12 @@ The repository is organized into folders, each corresponding to a specific guide
   - `audible_raw.csv`: Data folder for the thrid project.
   
 - **Project: Analysing Google Sheets Data on Python**
-   - `project4_notebook.ipynb`: Jupyter Notebook for the third guided project.
-   -  `ga_sample_data.csv`: Data for the fourth project.   
+   - `project4_notebook.ipynb`: Jupyter Notebook for the fourth guided project.
+   -  `ga_sample_data.csv`: Data for the fourth project.
+     
+- **Project: A Visual History of Nobel Prize Winners**
+  - `project5_notebook.ipynb`: Jupyter Notebook for the fifth guided project.
+  -  `nobel.csv`: Data for the Fifth project
 ...
 ## Usage
 Feel free to explore each project folder to review the code, analysis, and results. The Jupyter Notebooks are well-commented and include explanations for each step. Additionally, you can run the notebooks locally by setting up a Python environment with the required dependencies mentioned in the course.
