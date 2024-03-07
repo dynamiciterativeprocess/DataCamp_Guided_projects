@@ -3,6 +3,7 @@
 ## Overview
 This repository contains guided projects completed as part of DataCamp courses. Each project is designed to reinforce
 the concepts covered in the respective courses and provide hands-on experience in applying data science and analytics skills.
+The Files within the notebook have all the tasks required. I have added my own code, so it may not be 100% the soluntion to the DataCamp solution. 
 
 ## Structure
 The repository is organized into folders, each corresponding to a specific guided project. The structure is as follows:
