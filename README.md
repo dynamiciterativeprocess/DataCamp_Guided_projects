@@ -33,8 +33,8 @@ The repository is organized into folders, each corresponding to a specific guide
   -  `project5_nobel.csv`: Data for the Fifth project.
   
 - **Project: Customer Analytics: Preparing Data for Modelling**
-  - `project6_notebook.ipynb`: Jupyter Notebook for the sixth project.
-  - `project6_customer_train.csv`: Data for the Sixth Project. 
+  - `project7_notebook.ipynb`: Jupyter Notebook for the sixth project.
+  - `project7_customer_train.csv`: Data for the Sixth Project. 
 ...
 ## Usage
 Feel free to explore each project folder to review the code, analysis, and results. The Jupyter Notebooks are well-commented and include explanations for each step. Additionally, you can run the notebooks locally by setting up a Python environment with the required dependencies mentioned in the course.
